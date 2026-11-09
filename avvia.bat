@@ -24,7 +24,7 @@ echo   ID3-Editor - MATRIX EDITION
 echo  ============================================================
 echo   Avvio in corso...
 echo.
-pwsh.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0ID3-Editor.ps1"
+pwsh.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0Joe-Colton-ID3-Editor.ps1"
 
 REM --- 4. Gestione eventuale errore ---
 if %ERRORLEVEL% NEQ 0 (
