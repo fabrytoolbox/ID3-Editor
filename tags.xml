@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Tags>
+  <ArtistiSingoli>
+    <Artista>Fabio Concato</Artista>
+    <Artista>Papik</Artista>
+    <Artista>Aretha Franklin</Artista>
+    <Artista>George Benson</Artista>
+    <Artista>Stevie Ray Vaughan</Artista>
+  </ArtistiSingoli>
+  <Generi>
+    <Genere>Pop</Genere>
+    <Genere>Jazz</Genere>
+    <Genere>Nu-Jazz</Genere>
+    <Genere>Soul</Genere>
+    <Genere>R&amp;B</Genere>
+    <Genere>Blues</Genere>
+  </Generi>
+  <Duetti>
+    <Duetto>Fabio Concato feat. Papik</Duetto>
+    <Duetto>George Benson &amp; Aretha Franklin</Duetto>
+  </Duetti>
+</Tags>

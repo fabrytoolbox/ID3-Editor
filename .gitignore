@@ -1,0 +1,34 @@
+# ============================================================
+# ID3-Editor - .gitignore
+# ============================================================
+
+# --- Log generati dal tool ---
+*.log
+matrix_*_*.log
+
+# --- Configurazione utente (futura) ---
+config.json
+
+# --- File temporanei e archivi ---
+*.tmp
+*.zip
+*.7z
+*.rar
+*.bak
+*.old
+
+# --- Sistema operativo ---
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# --- Editor / IDE ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
